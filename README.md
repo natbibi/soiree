@@ -14,7 +14,7 @@ git clone https://github.com/natbibi/soiree
 ```
 
 2. Create a feature branch off `main` branch relating to the issue you are working on.
-3. Make your changes and push to the repository.
+3. Make your changes, `git pull`, and `git push` to the repository. 
 4. Create a PR to merge your `feature-branch` to `main`
 5. If no conflicts and approved, merge PR into `main`
 6. This will trigger an automatically deployment to Netlify.
