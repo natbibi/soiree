@@ -7,7 +7,7 @@ Prod link: https://poop-poop.netlify.app/
 
 ## Contributing
 
-1. To contribute clone this repositiory
+1. Clone this repositiory
 
 ```
 git clone https://github.com/natbibi/soiree
